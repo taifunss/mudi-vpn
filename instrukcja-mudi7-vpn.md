@@ -61,7 +61,7 @@ Potrzebujesz internetu do instalacji skryptu. Karta SIM jest pusta więc użyjes
 
 W Termux wpisz kolejno:
 
-**Komenda 1** – usuń stary klucz SSH:
+**Komenda 1** – usuń stary klucz SSH komendą niżej:
 ```
 ssh-keygen -R 192.168.8.1
 ```
